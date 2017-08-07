@@ -1,0 +1,13 @@
+com/Pages/start/impl/Start.class
+com/Application.class
+com/Tools/Rest.class
+com/Widgets/MyMap/impl/MyMapModel.class
+com/Tools/CommunicationTools.class
+com/Entities/DeviceTtnEntity.class
+com/Entities/FlyEntity.class
+AppWidgetset.class
+com/Widgets/MyMap/impl/LeafletMapView.class
+com/Widgets/MyMap/impl/MyMapModel$GPS_SELECT.class
+com/Entities/GpsEntity.class
+com/Entities/AppTtnEntity.class
+com/Entities/DeviceGsmEntity.class
